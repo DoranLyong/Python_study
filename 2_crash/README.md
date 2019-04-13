@@ -1,5 +1,7 @@
+[(Home)](https://github.com/DoranLyong/Python_study)
+
 # Crash course notes
-### 1. Python grammar 
+## 1. [Python grammar](https://github.com/DoranLyong/Python_study/tree/master/2_crash/1_grammar)
 * Installation
 * The Zen of Python (Python 설계 원칙)
     * 단 하나의 직감적이고 당연한 방식으로 코딩
@@ -12,25 +14,14 @@
 * Operation (연산)
     * ``` + - * / ```
 * Function 
-    * 인과관계 설계 
-    * input → [ 함수 ]  → output 
-    * <span style="color:skyblue">args</span> & <span style="color:skyblue">kwargs</span>
 
 * Data types 
-    * ```int```, ```float``` 
-    * ```string``` 
-    * ```boolen``` 
 
 * Data structure 
-    * < list >
-    * < tuple >
-    * < dict >
-    * < set >
+    
 
 * Control statements (흐름 제어)
-    * ```if ~~ else ~~ ```
-    * ``` while ~~ ``` 
-    * ``` for ~~ in ~~ ``` 
+    
 
 * Tips for Pythonic code 
     * List Comprehension 
@@ -40,6 +31,6 @@
 
 <br/>
 
-### 2. API usage 
+## 2. API usage 
 * matplotlib 
 * scipy 
