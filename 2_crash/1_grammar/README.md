@@ -6,8 +6,10 @@
 * The Zen of Python (Python 설계 원칙)
     * 단 하나의 직감적이고 당연한 방식으로 코딩
         > = Pythonic code (파이썬스러운 코드) 
-* 코드 블럭 구분자 
+* [코드 블럭 구분자](https://github.com/DoranLyong/Python_study/tree/master/2_crash/1_grammar/2_identation)
     * ```{ }```  or ```identation``` 
+    * 공백문자(whitespace)
+    * 역슬래시(backslash, ```\```)
 * 3rd party packages 
     * 모듈 불러오기 
         > ```import <모듈 이름> as <닉네임>```
