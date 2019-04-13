@@ -20,6 +20,7 @@
 * [Function](https://github.com/DoranLyong/Python_study/tree/master/2_crash/1_grammar/5_function) 
     * 인과관계 설계 
     * input → [ 함수 ]  → output 
+    * lambda function 
     * <span style="color:skyblue">args</span> & <span style="color:skyblue">kwargs</span>
 
 * Data types 
@@ -37,6 +38,8 @@
     * ```if ~~ else ~~ ```
     * ``` while ~~ ``` 
     * ``` for ~~ in ~~ ``` 
+
+* Exception (예외 처리)    
 
 * Tips for Pythonic code 
     * List Comprehension 
