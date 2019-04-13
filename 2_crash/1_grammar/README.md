@@ -39,7 +39,7 @@
     * ``` while ~~ ``` 
     * ``` for ~~ in ~~ ``` 
 
-* Exception (예외 처리)    
+* [Exception (예외 처리)](https://github.com/DoranLyong/Python_study/tree/master/2_crash/1_grammar/9_exception)
 
 * Tips for Pythonic code 
     * List Comprehension 
