@@ -17,7 +17,7 @@
         > ``` <모듈 이름>.<맴버 이름>```
 * Operation (연산)
     * ``` + - * / ```
-* [Function]() 
+* [Function](https://github.com/DoranLyong/Python_study/tree/master/2_crash/1_grammar/5_function) 
     * 인과관계 설계 
     * input → [ 함수 ]  → output 
     * <span style="color:skyblue">args</span> & <span style="color:skyblue">kwargs</span>
