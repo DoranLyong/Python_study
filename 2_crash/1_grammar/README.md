@@ -17,7 +17,7 @@
         > ``` <모듈 이름>.<맴버 이름>```
 * Operation (연산)
     * ``` + - * / ```
-* Function 
+* [Function]() 
     * 인과관계 설계 
     * input → [ 함수 ]  → output 
     * <span style="color:skyblue">args</span> & <span style="color:skyblue">kwargs</span>
