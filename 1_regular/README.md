@@ -1,3 +1,4 @@
+[(Home)](https://github.com/DoranLyong/Python_study)
 # 파이썬 공부 정리 
 
 그 동안 다양한 책들로 공부한 파이썬의 내용을 정리하는 리포지토리<sup>repository</sup>입니다. <br/><br/>
