@@ -8,7 +8,7 @@
 <br/>
 2016년에 좀더 두꺼운 버전의 책이 출판됐다. 두께로 보아 이전 보다 더 많은 내용을 담고 있을 것 같다. 추후에 구매해서 또 정리해야겠다. <br/><br/>
 
-### (1) 2011년 수정판 정리 
+### (1) [2011년 수정판 정리](https://github.com/DoranLyong/Python_study/tree/master/1_regular/Head_First_Python/2011_edit) 
 ### (2) 2016년 판 정리  
 
 ##
